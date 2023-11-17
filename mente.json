@@ -1,0 +1,276 @@
+{
+  "question": [
+    {
+      "question": "hola",
+      "answer": "hola, como estas"
+    },
+    {
+      "question": "bien o excelente y tu?",
+      "answer": "Me alegro por ti."
+    },
+    {
+      "question": "te puedo hacer una pregunta o preguntar algo",
+      "answer": "Claro, te repondere si se la respuestas en caso contrario me gustaria que me digas la respuesta"
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el proceso de admisi\u00c3\u00b3n en Certus?",
+      "answer": "El proceso de admisi\u00c3\u00b3n en Certus implica completar una solicitud en l\u00c3\u00adnea, proporcionar documentos acad\u00c3\u00a9micos y participar en una entrevista de admisi\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo encontrar informaci\u00c3\u00b3n sobre los programas de estudio en Certus?",
+      "answer": "Puedes encontrar informaci\u00c3\u00b3n detallada sobre los programas de estudio en el sitio web oficial de Certus o contactando a la oficina de admisiones."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el costo de la matr\u00c3\u00adcula en Certus?",
+      "answer": "El costo de la matr\u00c3\u00adcula var\u00c3\u00ada seg\u00c3\u00ban el programa y la modalidad de estudio. Te recomendamos visitar el sitio web de Certus o contactar a la oficina de finanzas para obtener informaci\u00c3\u00b3n actualizada."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 servicios de apoyo acad\u00c3\u00a9mico ofrece Certus a los estudiantes?",
+      "answer": "Certus ofrece servicios de apoyo acad\u00c3\u00a9mico, que incluyen tutor\u00c3\u00adas, asesor\u00c3\u00ada acad\u00c3\u00a9mica y recursos de biblioteca para ayudar a los estudiantes a tener \u00c3\u00a9xito en sus estudios."
+    },
+    {
+      "question": "\u00c2\u00bfPuedes explicar el calendario acad\u00c3\u00a9mico de Certus?",
+      "answer": "El calendario acad\u00c3\u00a9mico de Certus muestra las fechas importantes, como el inicio de clases, periodos de ex\u00c3\u00a1menes y vacaciones. Puedes consultarlo en el sitio web de Certus."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo acceder a los recursos de la biblioteca de Certus?",
+      "answer": "Los recursos de la biblioteca de Certus est\u00c3\u00a1n disponibles en la biblioteca f\u00c3\u00adsica del campus y en l\u00c3\u00adnea a trav\u00c3\u00a9s del sistema de gesti\u00c3\u00b3n de bibliotecas de la instituci\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son los requisitos para obtener una beca en Certus?",
+      "answer": "Los requisitos para obtener una beca en Certus var\u00c3\u00adan seg\u00c3\u00ban el tipo de beca. Debes revisar la informaci\u00c3\u00b3n espec\u00c3\u00adfica de becas en el sitio web de la instituci\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el promedio de tiempo de graduaci\u00c3\u00b3n en Certus?",
+      "answer": "El tiempo de graduaci\u00c3\u00b3n promedio en Certus puede variar seg\u00c3\u00ban el programa de estudio y otros factores. Por lo general, se puede completar en [n\u00c3\u00bamero de a\u00c3\u00b1os o semestres]."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 programas de intercambio internacional ofrece Certus?",
+      "answer": "Certus ofrece programas de intercambio internacional que permiten a los estudiantes estudiar en universidades asociadas en el extranjero. Debes consultar a la oficina de relaciones internacionales para obtener detalles espec\u00c3\u00adficos."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo inscribirme en un curso de Certus en l\u00c3\u00adnea?",
+      "answer": "Para inscribirte en un curso en l\u00c3\u00adnea de Certus, debes seguir el proceso de inscripci\u00c3\u00b3n en l\u00c3\u00adnea en el sitio web de la instituci\u00c3\u00b3n y pagar la matr\u00c3\u00adcula correspondiente."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son las opciones de alojamiento para estudiantes en Certus?",
+      "answer": "Certus puede ofrecer opciones de alojamiento en residencias universitarias o proporcionar informaci\u00c3\u00b3n sobre viviendas fuera del campus. Debes ponerte en contacto con la oficina de alojamiento para obtener detalles."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son los clubes estudiantiles disponibles en Certus?",
+      "answer": "Certus ofrece una variedad de clubes y organizaciones estudiantiles, que abarcan intereses acad\u00c3\u00a9micos, deportivos, culturales y sociales. Puedes obtener informaci\u00c3\u00b3n sobre los clubes en la oficina de vida estudiantil."
+    },
+    {
+      "question": "\u00c2\u00bfPuedo acceder a servicios de asesor\u00c3\u00ada acad\u00c3\u00a9mica en Certus?",
+      "answer": "S\u00c3\u00ad, Certus ofrece servicios de asesor\u00c3\u00ada acad\u00c3\u00a9mica para ayudar a los estudiantes a planificar sus programas de estudio y abordar desaf\u00c3\u00ados acad\u00c3\u00a9micos. Puedes solicitar asesoramiento en la oficina de asesor\u00c3\u00ada acad\u00c3\u00a9mica."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 oportunidades de pasant\u00c3\u00adas o pr\u00c3\u00a1cticas profesionales existen en Certus?",
+      "answer": "Certus proporciona oportunidades de pasant\u00c3\u00adas y pr\u00c3\u00a1cticas profesionales a trav\u00c3\u00a9s de acuerdos con empresas y organizaciones. Debes contactar con el centro de carreras o empleabilidad para m\u00c3\u00a1s informaci\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son las especialidades disponibles en los programas de Certus?",
+      "answer": "Las especialidades disponibles pueden variar seg\u00c3\u00ban el programa de estudio. Debes revisar los programas acad\u00c3\u00a9micos de Certus para conocer las especialidades disponibles."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo solicitar un cambio de carrera en Certus?",
+      "answer": "Si deseas cambiar de carrera en Certus, debes hablar con el asesor acad\u00c3\u00a9mico y seguir el proceso de solicitud de cambio de programa."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la pol\u00c3\u00adtica de Certus en cuanto a la transferencia de cr\u00c3\u00a9ditos?",
+      "answer": "Certus tiene una pol\u00c3\u00adtica de transferencia de cr\u00c3\u00a9ditos que permite a los estudiantes transferir cr\u00c3\u00a9ditos acad\u00c3\u00a9micos de otras instituciones. Debes consultar con el registrador acad\u00c3\u00a9mico para obtener informaci\u00c3\u00b3n sobre los requisitos y el proceso."
+    },
+    {
+      "question": "\u00c2\u00bfPuedo participar en proyectos de investigaci\u00c3\u00b3n en Certus?",
+      "answer": "S\u00c3\u00ad, Certus ofrece oportunidades para que los estudiantes participen en proyectos de investigaci\u00c3\u00b3n en colaboraci\u00c3\u00b3n con profesores. Puedes explorar las opciones de investigaci\u00c3\u00b3n en tu \u00c3\u00a1rea de inter\u00c3\u00a9s."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo encontrar informaci\u00c3\u00b3n sobre oportunidades de empleo para graduados de Certus?",
+      "answer": "La oficina de servicios profesionales de Certus proporciona informaci\u00c3\u00b3n sobre oportunidades de empleo y ayuda en la b\u00c3\u00basqueda de trabajo para graduados. Debes contactar a esta oficina para obtener asesoramiento y recursos."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la pol\u00c3\u00adtica de Certus en cuanto a la tutor\u00c3\u00ada acad\u00c3\u00a9mica?",
+      "answer": "Certus ofrece servicios de tutor\u00c3\u00ada acad\u00c3\u00a9mica para estudiantes que necesitan apoyo adicional en sus estudios. Puedes solicitar un tutor acad\u00c3\u00a9mico en la oficina de asesor\u00c3\u00ada acad\u00c3\u00a9mica."
+    },
+    {
+      "question": "\u00c2\u00bfQu\u00c3\u00a9 laboratorios o instalaciones est\u00c3\u00a1n disponibles para estudiantes en Certus?",
+      "answer": "Certus proporciona laboratorios y facilidades que var\u00c3\u00adan seg\u00c3\u00ban el programa de estudio. Debes contactar con el departamento acad\u00c3\u00a9mico correspondiente para obtener informaci\u00c3\u00b3n sobre las instalaciones disponibles."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo acceder a las clases virtuales en Certus?",
+      "answer": "Las clases virtuales en Certus se acceden a trav\u00c3\u00a9s de una plataforma en l\u00c3\u00adnea. Debes utilizar tus credenciales de estudiante para acceder a las clases en l\u00c3\u00adnea."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el proceso para solicitar una extensi\u00c3\u00b3n en la fecha de entrega de un proyecto en Certus?",
+      "answer": "Para solicitar una extensi\u00c3\u00b3n en la fecha de entrega de un proyecto en Certus, debes comunicarte con tu profesor y presentar una solicitud justificada. La aprobaci\u00c3\u00b3n de la extensi\u00c3\u00b3n depender\u00c3\u00a1 de la situaci\u00c3\u00b3n y las pol\u00c3\u00adticas de la instituci\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo funciona el sistema de evaluaci\u00c3\u00b3n y calificaci\u00c3\u00b3n en Certus?",
+      "answer": "El sistema de evaluaci\u00c3\u00b3n y calificaci\u00c3\u00b3n en Certus var\u00c3\u00ada seg\u00c3\u00ban el programa y el curso. Por lo general, se utilizan calificaciones num\u00c3\u00a9ricas o letras, y se basa en la participaci\u00c3\u00b3n en clase, ex\u00c3\u00a1menes y proyectos."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde se encuentra la oficina de servicios estudiantiles en Certus?",
+      "answer": "La oficina de servicios estudiantiles de Certus se encuentra en [direcci\u00c3\u00b3n del campus]. Puedes visitar la oficina o contactar por tel\u00c3\u00a9fono o correo electr\u00c3\u00b3nico para obtener asistencia."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el procedimiento para solicitar una carta de recomendaci\u00c3\u00b3n de profesores en Certus?",
+      "answer": "El procedimiento para solicitar una carta de recomendaci\u00c3\u00b3n de profesores en Certus generalmente implica comunicarte con el profesor y proporcionar detalles sobre tu solicitud. Aseg\u00c3\u00barate de dar suficiente tiempo para que el profesor prepare la carta."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son las opciones de financiamiento de estudios en Certus?",
+      "answer": "Certus ofrece varias opciones de financiamiento de estudios, que incluyen becas, pr\u00c3\u00a9stamos estudiantiles y planes de pago. Debes comunicarte con la oficina de finanzas para obtener informaci\u00c3\u00b3n sobre las opciones disponibles."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la pol\u00c3\u00adtica de Certus en cuanto a la discriminaci\u00c3\u00b3n y el acoso?",
+      "answer": "Certus tiene una pol\u00c3\u00adtica de no discriminaci\u00c3\u00b3n y acoso que proh\u00c3\u00adbe cualquier forma de discriminaci\u00c3\u00b3n o acoso basada en g\u00c3\u00a9nero, raza, religi\u00c3\u00b3n u otras caracter\u00c3\u00adsticas. Los estudiantes pueden presentar denuncias de discriminaci\u00c3\u00b3n o acoso a la oficina de diversidad e inclusi\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfPuedo participar en proyectos de servicio comunitario en Certus?",
+      "answer": "S\u00c3\u00ad, Certus promueve el servicio comunitario y ofrece oportunidades para que los estudiantes participen en proyectos de servicio a la comunidad. Puedes obtener informaci\u00c3\u00b3n sobre proyectos disponibles en la oficina de compromiso c\u00c3\u00advico."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo acceder a recursos tecnol\u00c3\u00b3gicos, como software especializado, en Certus?",
+      "answer": "Los estudiantes de Certus pueden acceder a recursos tecnol\u00c3\u00b3gicos, incluyendo software especializado, a trav\u00c3\u00a9s de las instalaciones inform\u00c3\u00a1ticas del campus. La oficina de tecnolog\u00c3\u00ada de la informaci\u00c3\u00b3n (TI) puede proporcionar orientaci\u00c3\u00b3n sobre c\u00c3\u00b3mo acceder a estos recursos."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la pol\u00c3\u00adtica de Certus en cuanto a la propiedad intelectual de los proyectos de los estudiantes?",
+      "answer": "Certus generalmente respeta la propiedad intelectual de los estudiantes en proyectos acad\u00c3\u00a9micos. Sin embargo, es importante revisar la pol\u00c3\u00adtica de propiedad intelectual de la instituci\u00c3\u00b3n y considerar acuerdos espec\u00c3\u00adficos para proyectos de investigaci\u00c3\u00b3n o colaborativos."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo obtener informaci\u00c3\u00b3n sobre los requisitos de idioma en Certus?",
+      "answer": "Los requisitos de idioma para estudiantes internacionales o programas espec\u00c3\u00adficos en Certus se pueden encontrar en el sitio web de la instituci\u00c3\u00b3n o contactando con la oficina de asuntos internacionales."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son las opciones de financiamiento de estudios en Certus?",
+      "answer": "Certus ofrece varias opciones de financiamiento de estudios, que incluyen becas, pr\u00c3\u00a9stamos estudiantiles y planes de pago. Debes comunicarte con la oficina de finanzas para obtener informaci\u00c3\u00b3n sobre las opciones disponibles."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo funciona el proceso de registro para clases en Certus?",
+      "answer": "El proceso de registro para clases en Certus generalmente se realiza en l\u00c3\u00adnea a trav\u00c3\u00a9s del sistema de registro de la instituci\u00c3\u00b3n. Los estudiantes deben seguir las fechas y procedimientos de registro proporcionados por la oficina de registro y matr\u00c3\u00adcula."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el procedimiento para solicitar una beca deportiva en Certus?",
+      "answer": "Para solicitar una beca deportiva en Certus, debes comunicarte con el departamento de deportes de la instituci\u00c3\u00b3n y seguir el proceso de solicitud. Las becas deportivas generalmente se otorgan en funci\u00c3\u00b3n del rendimiento y el talento deportivo."
+    },
+    {
+      "question": "\u00c2\u00bfPuedo cambiar mi especialidad o concentraci\u00c3\u00b3n despu\u00c3\u00a9s de comenzar en Certus?",
+      "answer": "S\u00c3\u00ad, es posible cambiar tu especialidad o concentraci\u00c3\u00b3n en Certus despu\u00c3\u00a9s de comenzar, pero debes seguir el proceso de cambio de programa y cumplir con los requisitos espec\u00c3\u00adficos de la nueva especialidad."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo encontrar apoyo para estudiantes con necesidades especiales en Certus?",
+      "answer": "Certus ofrece apoyo para estudiantes con necesidades especiales a trav\u00c3\u00a9s de la oficina de servicios de accesibilidad. Debes comunicarte con esta oficina para solicitar acomodaciones y apoyo."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la pol\u00c3\u00adtica de Certus en cuanto a la integridad acad\u00c3\u00a9mica?",
+      "answer": "Certus tiene una pol\u00c3\u00adtica de integridad acad\u00c3\u00a9mica que proh\u00c3\u00adbe el plagio, el fraude y otras formas de deshonestidad acad\u00c3\u00a9mica. Los estudiantes deben seguir las normas de integridad acad\u00c3\u00a9mica y enfrentar consecuencias si incumplen estas normas."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo acceder a las instalaciones de recreaci\u00c3\u00b3n en el campus de Certus?",
+      "answer": "Las instalaciones de recreaci\u00c3\u00b3n en el campus de Certus est\u00c3\u00a1n disponibles para los estudiantes y se pueden acceder utilizando la tarjeta de identificaci\u00c3\u00b3n del estudiante. Debes comunicarte con el departamento de deportes o recreaci\u00c3\u00b3n para obtener informaci\u00c3\u00b3n sobre horarios y acceso."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el proceso para solicitar una carta de recomendaci\u00c3\u00b3n de profesores en Certus?",
+      "answer": "El proceso para solicitar una carta de recomendaci\u00c3\u00b3n de profesores en Certus generalmente implica comunicarte con el profesor y proporcionar detalles sobre tu solicitud. Aseg\u00c3\u00barate de dar suficiente tiempo para que el profesor prepare la carta."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son las opciones de financiamiento de estudios en Certus?",
+      "answer": "Certus ofrece varias opciones de financiamiento de estudios, que incluyen becas, pr\u00c3\u00a9stamos estudiantiles y planes de pago. Debes comunicarte con la oficina de finanzas para obtener informaci\u00c3\u00b3n sobre las opciones disponibles."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la pol\u00c3\u00adtica de Certus en cuanto a la discriminaci\u00c3\u00b3n y el acoso?",
+      "answer": "Certus tiene una pol\u00c3\u00adtica de no discriminaci\u00c3\u00b3n y acoso que proh\u00c3\u00adbe cualquier forma de discriminaci\u00c3\u00b3n o acoso basada en g\u00c3\u00a9nero, raza, religi\u00c3\u00b3n u otras caracter\u00c3\u00adsticas. Los estudiantes pueden presentar denuncias de discriminaci\u00c3\u00b3n o acoso a la oficina de diversidad e inclusi\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfPuedo participar en proyectos de servicio comunitario en Certus?",
+      "answer": "S\u00c3\u00ad, Certus promueve el servicio comunitario y ofrece oportunidades para que los estudiantes participen en proyectos de servicio a la comunidad. Puedes obtener informaci\u00c3\u00b3n sobre proyectos disponibles en la oficina de compromiso c\u00c3\u00advico."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo acceder a recursos tecnol\u00c3\u00b3gicos, como software especializado, en Certus?",
+      "answer": "Los estudiantes de Certus pueden acceder a recursos tecnol\u00c3\u00b3gicos, incluyendo software especializado, a trav\u00c3\u00a9s de las instalaciones inform\u00c3\u00a1ticas del campus. La oficina de tecnolog\u00c3\u00ada de la informaci\u00c3\u00b3n (TI) puede proporcionar orientaci\u00c3\u00b3n sobre c\u00c3\u00b3mo acceder a estos recursos."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la pol\u00c3\u00adtica de Certus en cuanto a la propiedad intelectual de los proyectos de los estudiantes?",
+      "answer": "Certus generalmente respeta la propiedad intelectual de los estudiantes en proyectos acad\u00c3\u00a9micos. Sin embargo, es importante revisar la pol\u00c3\u00adtica de propiedad intelectual de la instituci\u00c3\u00b3n y considerar acuerdos espec\u00c3\u00adficos para proyectos de investigaci\u00c3\u00b3n o colaborativos."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo obtener informaci\u00c3\u00b3n sobre los requisitos de idioma en Certus?",
+      "answer": "Los requisitos de idioma para estudiantes internacionales o programas espec\u00c3\u00adficos en Certus se pueden encontrar en el sitio web de la instituci\u00c3\u00b3n o contactando con la oficina de asuntos internacionales."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son las opciones de financiamiento de estudios en Certus?",
+      "answer": "Certus ofrece varias opciones de financiamiento de estudios, que incluyen becas, pr\u00c3\u00a9stamos estudiantiles y planes de pago. Debes comunicarte con la oficina de finanzas para obtener informaci\u00c3\u00b3n sobre las opciones disponibles."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo funciona el proceso de registro para clases en Certus?",
+      "answer": "El proceso de registro para clases en Certus generalmente se realiza en l\u00c3\u00adnea a trav\u00c3\u00a9s del sistema de registro de la instituci\u00c3\u00b3n. Los estudiantes deben seguir las fechas y procedimientos de registro proporcionados por la oficina de registro y matr\u00c3\u00adcula."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el procedimiento para solicitar una beca deportiva en Certus?",
+      "answer": "Para solicitar una beca deportiva en Certus, debes comunicarte con el departamento de deportes de la instituci\u00c3\u00b3n y seguir el proceso de solicitud. Las becas deportivas generalmente se otorgan en funci\u00c3\u00b3n del rendimiento y el talento deportivo."
+    },
+    {
+      "question": "\u00c2\u00bfPuedo cambiar mi especialidad o concentraci\u00c3\u00b3n despu\u00c3\u00a9s de comenzar en Certus?",
+      "answer": "S\u00c3\u00ad, es posible cambiar tu especialidad o concentraci\u00c3\u00b3n en Certus despu\u00c3\u00a9s de comenzar, pero debes seguir el proceso de cambio de programa y cumplir con los requisitos espec\u00c3\u00adficos de la nueva especialidad."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo encontrar apoyo para estudiantes con necesidades especiales en Certus?",
+      "answer": "Certus ofrece apoyo para estudiantes con necesidades especiales a trav\u00c3\u00a9s de la oficina de servicios de accesibilidad. Debes comunicarte con esta oficina para solicitar acomodaciones y apoyo."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la pol\u00c3\u00adtica de Certus en cuanto a la integridad acad\u00c3\u00a9mica?",
+      "answer": "Certus tiene una pol\u00c3\u00adtica de integridad acad\u00c3\u00a9mica que proh\u00c3\u00adbe el plagio, el fraude y otras formas de deshonestidad acad\u00c3\u00a9mica. Los estudiantes deben seguir las normas de integridad acad\u00c3\u00a9mica y enfrentar consecuencias si incumplen estas normas."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo acceder a las instalaciones de recreaci\u00c3\u00b3n en el campus de Certus?",
+      "answer": "Las instalaciones de recreaci\u00c3\u00b3n en el campus de Certus est\u00c3\u00a1n disponibles para los estudiantes y se pueden acceder utilizando la tarjeta de identificaci\u00c3\u00b3n del estudiante. Debes comunicarte con el departamento de deportes o recreaci\u00c3\u00b3n para obtener informaci\u00c3\u00b3n sobre horarios y acceso."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es el proceso para solicitar una carta de recomendaci\u00c3\u00b3n de profesores en Certus?",
+      "answer": "El proceso para solicitar una carta de recomendaci\u00c3\u00b3n de profesores en Certus generalmente implica comunicarte con el profesor y proporcionar detalles sobre tu solicitud. Aseg\u00c3\u00barate de dar suficiente tiempo para que el profesor prepare la carta."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1les son las opciones de financiamiento de estudios en Certus?",
+      "answer": "Certus ofrece varias opciones de financiamiento de estudios, que incluyen becas, pr\u00c3\u00a9stamos estudiantiles y planes de pago. Debes comunicarte con la oficina de finanzas para obtener informaci\u00c3\u00b3n sobre las opciones disponibles."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la pol\u00c3\u00adtica de Certus en cuanto a la discriminaci\u00c3\u00b3n y el acoso?",
+      "answer": "Certus tiene una pol\u00c3\u00adtica de no discriminaci\u00c3\u00b3n y acoso que proh\u00c3\u00adbe cualquier forma de discriminaci\u00c3\u00b3n o acoso basada en g\u00c3\u00a9nero, raza, religi\u00c3\u00b3n u otras caracter\u00c3\u00adsticas. Los estudiantes pueden presentar denuncias de discriminaci\u00c3\u00b3n o acoso a la oficina de diversidad e inclusi\u00c3\u00b3n."
+    },
+    {
+      "question": "\u00c2\u00bfPuedo participar en proyectos de servicio comunitario en Certus?",
+      "answer": "S\u00c3\u00ad, Certus promueve el servicio comunitario y ofrece oportunidades para que los estudiantes participen en proyectos de servicio a la comunidad. Puedes obtener informaci\u00c3\u00b3n sobre proyectos disponibles en la oficina de compromiso c\u00c3\u00advico."
+    },
+    {
+      "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo acceder a recursos tecnol\u00c3\u00b3gicos, como software especializado, en Certus?",
+      "answer": "Los estudiantes de Certus pueden acceder a recursos tecnol\u00c3\u00b3gicos, incluyendo software especializado, a trav\u00c3\u00a9s de las instalaciones inform\u00c3\u00a1ticas del campus. La oficina de tecnolog\u00c3\u00ada de la informaci\u00c3\u00b3n (TI) puede proporcionar orientaci\u00c3\u00b3n sobre c\u00c3\u00b3mo acceder a estos recursos."
+    },
+    {
+      "question": "\u00c2\u00bfCu\u00c3\u00a1l es la pol\u00c3\u00adtica de Certus en cuanto a la propiedad intelectual de los proyectos de los estudiantes?",
+      "answer": "Certus generalmente respeta la propiedad intelectual de los estudiantes en proyectos acad\u00c3\u00a9micos. Sin embargo, es importante revisar la pol\u00c3\u00adtica de propiedad intelectual de la instituci\u00c3\u00b3n y considerar acuerdos espec\u00c3\u00adficos para proyectos de investigaci\u00c3\u00b3n o colaborativos."
+    },
+    {
+      "question": "\u00c2\u00bfD\u00c3\u00b3nde puedo obtener informaci\u00c3\u00b3n sobre los requisitos de idioma en Certus?",
+      "answer": "Los requisitos de idioma para estudiantes internacionales o programas espec\u00c3\u00adficos en Certus se pueden encontrar en el sitio web de la instituci\u00c3\u00b3n o contactando con la oficina de asuntos internacionales."
+    },
+    {
+      "question": "sabes donde estudio",
+      "answer": "Estudias en CERTUS y estas en VI semestre"
+    },
+    {
+      "question": "como termino o terminamos o finalizamos o finalizo la conversacion?",
+      "answer": "Solo tienes que despedirte"
+    },
+    {
+      "question": "estoy mal",
+      "answer": "que lastima por ti"
+    },
+    {
+      "question": "que es un perro?",
+      "answer": "el perro es una mascota, pariente lejano del lobo"
+    },
+    {
+      "question": "bien",
+      "answer": "adios"
+    }
+  ]
+}

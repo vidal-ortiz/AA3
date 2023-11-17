@@ -1,0 +1,22 @@
+Filtro de palabras no deseadas.
+Cuando envies un texto y el codigo detecte unas de estas palabras baneadas:
+tonto, tarado, chela, jonca, idiota, estupido, chilindrina.
+te saldra el siguiente mensaje:
+"Palabra prohibida detectada en: 'texto' "
+Ejemplo
+Bot: Palabra prohibida detectada en: vamos por unas chelas?
+
+Integrar la Red Neuronal realizada en la semana 6 para sus posibles respuestas.
+La RN sirve para predecir si tienes diabetes
+utilizando la palabra clave "diabetes"
+te pedira ingresar tus datos como edad,bmi,glucosa
+segun la informacion recopilada de internet
+eres mas propenso a adquirir esta enfermedad
+- edad: mayor de 35 años
+- bmi: indice de masa corportal, si es mayor de 25 puntos es peligroso
+- glucosa: indice de glucosa estaba es 90-120, si es mayor puede ser indicativo de diabetes
+
+datos sugerentes para visualizar diabetes
+-35 años
+-26 bmi
+-130 glucosa
